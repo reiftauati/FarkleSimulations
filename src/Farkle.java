@@ -16,6 +16,7 @@ public class Farkle {
 			Roll r = new Roll();
 			r.initialize();
 			r.runTests();
+			//this is a comment, making some changes
 			if(i%10000000 == 0){ System.out.println("another 10M mark has passed."); }
 		}
 		System.out.println("THE FARKLE PROBABILITY MACHINE!!!!\nthis program written by Maka for \nthe benefit of Aunty Cheryl.");
